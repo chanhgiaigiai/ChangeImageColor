@@ -1,0 +1,9 @@
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Dino\source\repos\LearningNetCore\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
